@@ -1,0 +1,7 @@
+/node_modules
+/npm-debug.log
+/.idea
+/data/current_routes.test.json
+/data/current_routes.json
+/obj/test
+/docker/id_rsa*
